@@ -1,1 +1,1 @@
-# javasample
+#javaソースコードを実験管理する
